@@ -1,4 +1,4 @@
-### Hi 👋,I'm Diya Pathak
+
 
 <!--
 **diyapathak1203/diyapathak1203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,16 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👋 Hi there! I'm Diya Pathak
+                <p align="center">**👋 Hi there! I'm Diya Pathak**
+</p>
+
+---
+
 **A passionate full-stack web developer with a strong enthusiasm for Data Structures and Algorithms. With a background in both frontend and backend technologies, I specialize in crafting responsive and user-friendly web applications from conception to deployment.**
 
-+🔭 Currently, I'm actively honing my **coding skills.**
++ 🔭 Currently, I'm actively honing my **coding skills.**
 
-+🌱 I'm currently delving into **Django web developmen**t, learning about building web applications, working with databases, and implementing RESTful APIs.
++ 🌱 I'm currently delving into **Django web developmen**t, learning about building web applications, working with databases, and implementing RESTful APIs.
 
-+👩‍💻 Additionally, I'm exploring advanced Django concepts and best practices, including authentication, authorization, testing, and deployment strategies.
++ 👩‍💻 Additionally, I'm exploring advanced Django concepts and best practices, including authentication, authorization, testing, and deployment strategies.
 
-+📫 Feel free to reach out to me at  [diyapathak1203@gmail.com](mailto:diyapathak1203@gmail.com)
++ 📫 Feel free to reach out to me at  [diyapathak1203@gmail.com](mailto:diyapathak1203@gmail.com)
 
 **Connect with me:**
 
