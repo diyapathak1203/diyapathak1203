@@ -16,12 +16,13 @@ Here are some ideas to get you started:
 -->
 <h1 align="center"><strong>👋 Hi there! I'm Diya Pathak<strong></h1>
 
-
-
+---
 **A passionate full-stack web developer with a strong enthusiasm for Data Structures and Algorithms. With a background in both frontend and backend technologies, I specialize in crafting responsive and user-friendly web applications from conception to deployment.**
 
+---
 + 🔭 Currently, I'm actively honing my **coding skills.**
 
+---
 + 🌱 I'm currently delving into **Django web developmen**t, learning about building web applications, working with databases, and implementing RESTful APIs.
 
 + 👩‍💻 Additionally, I'm exploring advanced Django concepts and best practices, including authentication, authorization, testing, and deployment strategies.
