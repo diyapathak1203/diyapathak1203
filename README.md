@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center"><strong>👋 Hi there! I'm Diya Pathak<strong></p>
+<h1 align="center"><strong>👋 Hi there! I'm Diya Pathak<strong></h1>
 
 ---
 
