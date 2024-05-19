@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center"><strong>👋 Hi there! I'm Diya Pathak<strong></h1>
 
+
 **A passionate full-stack web developer with a strong enthusiasm for Data Structures and Algorithms. With a background in both frontend and backend technologies, I specialize in crafting responsive and user-friendly web applications from conception to deployment.**
 
 + 🔭 Currently, I'm actively honing my **coding skills.**
@@ -26,11 +27,11 @@ Here are some ideas to get you started:
 
 + 📫 Feel free to reach out to me at  [diyapathak1203@gmail.com](mailto:diyapathak1203@gmail.com)
 
-**Connect with me:**
+<h2>**Connect with me:**</h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/diyapathak1203)
 
-**Languages and Tools:**
+<h2>**Languages and Tools:**<h2>
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
